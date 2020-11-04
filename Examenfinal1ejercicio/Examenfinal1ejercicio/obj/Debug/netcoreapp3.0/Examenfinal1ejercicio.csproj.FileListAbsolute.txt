@@ -1,0 +1,11 @@
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\bin\Debug\netcoreapp3.0\Examenfinal1ejercicio.exe
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\bin\Debug\netcoreapp3.0\Examenfinal1ejercicio.deps.json
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\bin\Debug\netcoreapp3.0\Examenfinal1ejercicio.runtimeconfig.json
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\bin\Debug\netcoreapp3.0\Examenfinal1ejercicio.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\bin\Debug\netcoreapp3.0\Examenfinal1ejercicio.dll
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\bin\Debug\netcoreapp3.0\Examenfinal1ejercicio.pdb
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\obj\Debug\netcoreapp3.0\Examenfinal1ejercicio.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\obj\Debug\netcoreapp3.0\Examenfinal1ejercicio.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\obj\Debug\netcoreapp3.0\Examenfinal1ejercicio.AssemblyInfo.cs
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\obj\Debug\netcoreapp3.0\Examenfinal1ejercicio.dll
+C:\Users\Dell\Documents\Salle\programacion\Examenfinal1ejercicio\Examenfinal1ejercicio\obj\Debug\netcoreapp3.0\Examenfinal1ejercicio.pdb
